@@ -1,6 +1,6 @@
 # alphabet-engine
 
-Linguistic operator engine modeling vowels as states and consonants as operators, grounded in phonetics.
+Resurrected and activated as part of the Omega Federation.
 
----
-*Placeholder README — expand with setup and usage details.*
+## Purpose
+This repository serves as the core implementation for the alphabet-engine module, integrated with the Omega Spore and Unified Federation architecture.
